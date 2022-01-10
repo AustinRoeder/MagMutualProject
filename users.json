@@ -1,0 +1,24 @@
+[
+    {
+        "username": "jdoe",
+        "name": "John Doe",
+        "address": {
+            "street": "123 example st",
+            "street2": "",
+            "city": "nowhere",
+            "state": "KS",
+            "zip-code": 12345
+        }
+    },
+    {
+        "username": "jsmith",
+        "name": "John Smith",
+        "address": {
+            "street": "125 lorem ipsum",
+            "street2": "",
+            "city": "nowhere",
+            "state": "KS",
+            "zip-code": 12345
+        }
+    }
+]
